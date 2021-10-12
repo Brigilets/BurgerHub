@@ -1,0 +1,33 @@
+
+ 
+.page-item a{
+    color: #262626!important;
+    border:1px solid #262626;
+    background: white;
+}
+.pagination > .active > a
+{
+    color: white !important;
+    background-color: #262626 !Important;
+    border: solid 1px #262626 !Important;
+
+}
+
+body{
+    font-family: 'Special Elite', cursive;
+    min-height: 100vh !important;
+}
+.card{
+    width: 18rem;
+}
+html{
+    position: relative;
+    min-height: 100%;
+}
+.footer{
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
